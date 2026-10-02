@@ -1,1 +1,1 @@
-pdx-johan-server-production.up.railway.app
+https://pdx-johan-server-production.up.railway.app
